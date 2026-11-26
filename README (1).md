@@ -1,0 +1,1 @@
+Test telemetry opt-out, tracker blocking, cookie partitioning, HTTPS-only behavior, fingerprinting resistance, and expected network destinations. Record exceptions for security updates and browser services.
